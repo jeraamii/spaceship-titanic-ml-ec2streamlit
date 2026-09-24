@@ -10,7 +10,7 @@ Note: The AWS SageMaker endpoint and EC2 instance used for this project were pro
 
 | Form Input | Prediction Result | Prediction Result |
 |---|---|---|
-| ![form](screenshots/image(15).png) | ![result](screenshots/image(16).png) | ![probabilities](screenshots/image(17).png) |
+| ![form](screenshots/image15.png) | ![result](screenshots/image16.png) | ![probabilities](screenshots/image17.png) |
 
 ---
 
